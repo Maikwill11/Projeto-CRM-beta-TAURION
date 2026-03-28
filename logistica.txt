@@ -1,0 +1,41 @@
+motorista,caminhão,tipo_caminhão,transportadora,cubagem,preço,destino,status
+João Silva,ABC-1234,Carreta 3 Eixos,TransBrasil,28.5,4500.00,São Paulo,entrega
+Maria Santos,XYZ-5678,Truck,LogiRapido,15.2,2800.00,Rio de Janeiro,carregando
+Pedro Costa,DEF-9012,Bitrem,Expresso Sul,35.8,6200.00,Belo Horizonte,descarregando
+Ana Oliveira,GHI-3456,Carreta,TransNordeste,22.0,3900.00,Salvador,disponivel
+Carlos Mendes,JKL-7890,Truck,Logistica RJ,18.7,3100.00,Fortaleza,retorno
+Roberto Lima,MNO-2345,Carreta 3 Eixos,TransSul,29.4,4800.00,Porto Alegre,entrega
+Fernanda Costa,PQR-6789,Bitrem,LogiExpress,36.2,6500.00,Curitiba,carregando
+Lucas Ferreira,STU-0123,Truck,TransBrasil,16.8,2950.00,Brasília,descarregando
+Patrícia Santos,VWX-4567,Carreta,Expresso Sul,23.5,4100.00,Recife,disponivel
+Marcos Silva,YZA-8901,Bitrem,TransNordeste,34.1,5900.00,Belém,retorno
+André Oliveira,BCD-2345,Truck,LogiRapido,17.9,3200.00,Manaus,entrega
+Juliana Costa,EFG-6789,Carreta 3 Eixos,TransSul,27.3,4600.00,Salvador,carregando
+Rafael Mendes,HIJ-0123,Bitrem,Expresso Sul,33.7,6100.00,Rio de Janeiro,descarregando
+Camila Ferreira,KLM-4567,Truck,TransBrasil,19.2,3400.00,Belo Horizonte,disponivel
+Thiago Santos,NOP-8901,Carreta,Logistica RJ,25.8,4300.00,Fortaleza,retorno
+Larissa Lima,QRS-2345,Bitrem,TransNordeste,31.5,5700.00,Porto Alegre,entrega
+Bruno Costa,TUV-6789,Truck,LogiExpress,14.8,2600.00,Curitiba,carregando
+Gabriel Oliveira,WXY-0123,Carreta 3 Eixos,TransSul,28.9,4750.00,Brasília,descarregando
+Amanda Silva,ZAB-4567,Bitrem,Expresso Sul,32.4,5950.00,Recife,disponivel
+Diego Mendes,CDE-8901,Truck,TransBrasil,18.6,3150.00,Belém,retorno
+Ricardo Almeida,FGH-1234,Carreta 3 Eixos,TransBrasil,26.7,4450.00,São Paulo,entrega
+Sofia Martins,HIJ-5678,Truck,LogiRapido,16.4,2850.00,Rio de Janeiro,carregando
+Enzo Rodrigues,KLM-9012,Bitrem,Expresso Sul,34.9,6300.00,Belo Horizonte,descarregando
+Isabela Santos,NOP-3456,Carreta,TransNordeste,21.8,3850.00,Salvador,disponivel
+Mateus Ferreira,QRS-7890,Bitrem,Logistica RJ,19.5,3250.00,Fortaleza,retorno
+Laura Costa,TUV-2345,Truck,TransSul,28.2,4700.00,Porto Alegre,entrega
+Gustavo Oliveira,WXY-6789,Carreta 3 Eixos,LogiExpress,30.1,5200.00,Curitiba,carregando
+Helena Silva,ZAB-0123,Bitrem,Expresso Sul,33.5,6050.00,Brasília,descarregando
+Arthur Mendes,CDE-4567,Truck,TransBrasil,17.3,3050.00,Recife,disponivel
+Valentina Lima,FGH-8901,Carreta,TransNordeste,24.6,4250.00,Belém,retorno
+Davi Santos,HIJ-2345,Bitrem,Logistica RJ,35.2,6400.00,São Paulo,entrega
+Mariana Ferreira,KLM-6789,Truck,TransSul,15.9,2750.00,Rio de Janeiro,carregando
+Theo Oliveira,NOP-0123,Carreta 3 Eixos,Expresso Sul,29.8,4900.00,Belo Horizonte,descarregando
+Alice Costa,QRS-4567,Bitrem,TransBrasil,22.4,3950.00,Salvador,disponivel
+Benício Mendes,TUV-8901,Truck,LogiRapido,18.1,3100.00,Fortaleza,retorno
+Luna Almeida,WXY-2345,Carreta,TransNordeste,31.7,5550.00,Porto Alegre,entrega
+Miguel Martins,ZAB-6789,Bitrem,LogiExpress,27.9,4650.00,Curitiba,carregando
+Júlia Rodrigues,CDE-0123,Truck,Expresso Sul,16.5,2900.00,Brasília,descarregando
+Samuel Santos,FGH-4567,Carreta 3 Eixos,TransSul,33.2,6000.00,Recife,disponivel
+Isis Ferreira,HIJ-8901,Bitrem,TransBrasil,20.8,3600.00,Belém,retorno
